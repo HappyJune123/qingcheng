@@ -1,7 +1,7 @@
 # qingcheng
 创建第一个电商项目
 
-技术选型：
+技术选型：    
 1.主框架技术：SSM（通用mapper）+Dubbo     
 2.前端技术： 网站后台 Vue.js+ElementUI 网站前台采用Vue.js 和模板技术 thymeleaf     
 3.消息中间件技术： RabbitMQ    
